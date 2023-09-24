@@ -1,0 +1,32 @@
+[
+		{
+		"count": 1,
+		"filter": "i",
+		"exptime": 80,
+		"RA": 340.163620,
+		"dec": -20.007370,
+		"object": "S230922g 86",
+		"program": "GW-MMADS",
+		"expType": "object",
+		"note": "None",
+		"comment": "2022B-715089",
+		"wait": "False",
+		"proposer": "Andreoni Palmese",
+		"propid": "2022B-715089"
+	},
+	{
+		"count": 1,
+		"filter": "i",
+		"exptime": 80,
+		"RA": 336.371560,
+		"dec": -23.400020,
+		"object": "S230922g 86",
+		"program": "GW-MMADS",
+		"expType": "object",
+		"note": "None",
+		"comment": "2022B-715089",
+		"wait": "False",
+		"proposer": "Andreoni Palmese",
+		"propid": "2022B-715089"
+	}
+]
