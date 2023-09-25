@@ -12,4 +12,4 @@ Be careful to select the correct proposal ID for the target type:
 
 ### BBH: 2022B-715089
 ### NSs: 2022B-922046
-### Survey : xxx
+### Survey : 2023B-851374
