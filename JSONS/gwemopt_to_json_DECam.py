@@ -38,7 +38,7 @@ def tiles(json_outpath,json_prefixs,pointRAs,pointDECs,filts,exps,propids,object
                 json_out.append('\t\t"exptime": %f,'% float(exps[i]))
                 json_out.append('\t\t"RA": %f,' % round(float(pointRAs[i]), 5))
                 json_out.append('\t\t"dec": %f,' % round(float(pointDECs[i]), 5))
-                json_out.append('\t\t"object": "%s",'% (tobject + ' ' + str(field)))
+                json_out.append('\t\t"object": "%s",'% (tobject + ' ' + str(fields[i])))
                 json_out.append('\t\t"program": "%s",'%program)
                 json_out.append('\t\t"expType": "%s",'%exptype)
                 json_out.append('\t\t"note": "None",')
