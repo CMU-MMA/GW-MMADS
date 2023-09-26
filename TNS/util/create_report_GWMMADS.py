@@ -6,7 +6,7 @@ import pandas as pd
 # api keys in order of creation
 #api_key='8db53e5dfcbebe521b6f46f13ec98b1bc37685b8'
 #api_key='158a727917dae8b1e44a74ea2431c304daf568ce'
-api_key='0ee2ee7eb1e438a9186bbf477605ae4912b4fa1f'  # Works on real and sandbox now
+api_key='566f3108f69af96986fa8d84b073955976c41577'  # Works on real and sandbox now
 bot_name='GW-MMADS_bot'
 bot_id=155622
 
