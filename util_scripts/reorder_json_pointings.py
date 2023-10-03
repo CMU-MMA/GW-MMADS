@@ -40,10 +40,11 @@ with open(args.path_to_json, "r") as f:
 ###   Reorder pointings    ###
 ##############################
 
-# Calculate weighted metric
-# This metric applies a strong weighting on RA, and a smaller one on dec,
-#   s.t. ea. RA "stripe" should be taken in one block 
-# Rotate RA, dec to align with grid
+# Calculate ordering metric 
+# Currently this is a cherrypicked metric for DELVE, though the idea can be applied to other tilings
+# The general idea is to find a way to slice the pointings into groups parallel to one of the tiling axes;
+#   at the moment this works best for DELVE when slicing ~horizontally,
+#   and then reversing every other slice to snake across the area.
 # Normalize RA, dec
 for c in ["RA", "dec"]:
     df[f"{c}_norm"] = (df[c] - df[c].min()) / (df[c].max() - df[c].min())
