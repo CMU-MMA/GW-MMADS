@@ -164,7 +164,8 @@ if args.nmax_pointings != parser.get_default("nmax_pointings"):
     # Metric for ~RA ordering
     df_cut["metric"] = -10 * df_cut["RA_norm"] + df_cut["dec_norm"] 
     # Metric for covering pointings in a circle path
-    df_cut["metric"] = np.arctan2(df_cut["dec_norm"], df_cut["RA_norm"]) 
+    df_cut["metric"] = -(np.pi / 1.5 + np.arctan2(df_cut["dec_norm"], df_cut["RA_norm"])) % (2 * np.pi)
+    df_cut["metric"] = (-np.arctan2(df_cut["dec_norm"], df_cut["RA_norm"]))
     df_cut_sorted = df_cut.sort_values(by="metric")
     js_cut_sorted = [js_cut[i] for i in df_cut_sorted.index]
 
@@ -233,7 +234,8 @@ outname_cut = outname.replace(".json", ".cut.json")
 if args.write_json:
     with open(outname, "w") as f:
         json.dump(js_sorted, f, indent=4)
-    with open(outname_cut, "w") as f:
-        json.dump(js_cut_sorted, f, indent=4)
+    if args.nmax_pointings != parser.get_default("nmax_pointings"):
+        with open(outname_cut, "w") as f:
+            json.dump(js_cut_sorted, f, indent=4)
 else:
     print("write_json is false; reordered json not written.")
