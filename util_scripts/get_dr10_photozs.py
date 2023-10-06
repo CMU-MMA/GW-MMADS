@@ -158,4 +158,7 @@ result.drop(labels=["ls_BRICKID", "ls_OBJID"], axis=1, inplace=True)
 df_plus = pd.concat([df_csv, result], axis=1)
 
 # Save
-df_plus.to_csv(args.csv_file.replace(".csv", ".photoz.csv"))
+if args.with_i:
+    df_plus.to_csv(args.csv_file.replace(".csv", ".photoz_with_i.csv"))
+else:
+    df_plus.to_csv(args.csv_file.replace(".csv", ".photoz.csv"))
