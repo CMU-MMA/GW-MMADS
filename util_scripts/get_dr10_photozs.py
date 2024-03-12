@@ -10,9 +10,9 @@ def floor_base(x, base=5):
 
 def dec2pm0dec(dec):
     if dec >= 0:
-        return f"p0{dec}"
+        return f"p{dec:03d}"
     else:
-        return f"m0{-dec}"
+        return f"m{-dec:03d}"
 
 def brickname2sweeprange(brickname):
     # Break apart brickname
@@ -27,7 +27,7 @@ def brickname2sweeprange(brickname):
     dec0 = floor_base(dec)
     ra1 = floor_base(ra + 5)
     dec1 = floor_base(dec + 5)
-    sweeprange = f"{int(ra0)}{dec2pm0dec(int(dec0))}-{int(ra1)}{dec2pm0dec(int(dec1))}"
+    sweeprange = f"{int(ra0):03d}{dec2pm0dec(int(dec0))}-{int(ra1):03d}{dec2pm0dec(int(dec1))}"
 
     return sweeprange 
 
@@ -95,9 +95,9 @@ print(df_csv)
 
 def radec2brickname(ra,dec):
     if dec >= 0:
-        return f"{int(ra)}p0{int(dec)}"
+        return f"{int(ra):03d}p{int(dec):03d}"
     else:
-        return f"{int(ra)}m0{int(-dec)}"
+        return f"{int(ra):03d}m{-int(dec):03d}"
 
 def get_photoz(row):
     with fits.open(f"{PZSWEEPDIR}/sweep-{row['ls_sweeprange']}-pz.fits") as hdul:
@@ -145,6 +145,9 @@ def get_photoz(row):
                         return match[0] 
                     except IndexError:
                         continue
+
+            # Return row of nans if no match found
+            return [np.nan] * 14 
         except:
             raise
         
