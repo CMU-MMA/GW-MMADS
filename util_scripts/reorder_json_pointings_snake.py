@@ -115,15 +115,19 @@ with open(args.json_file, "r") as f:
 #   at the moment this works best for DELVE when slicing ~horizontally,
 #   and then reversing every other slice to snake across the area.
 # Normalize RA, dec
+df["RA"] = df["RA"].apply(lambda x: float(x))
+df["dec"] = df["dec"].apply(lambda x: float(x))
 for c in ["RA", "dec"]:
     df[f"{c}_norm"] = (df[c] - df[c].median()) / (df[c].max() - df[c].min())
 # Calculate metric
 # Metric for ~horizontal stripes
 # -0.13 is good for S230922g full area
 # 0.01 is good for S230922g 72/85 pointings
+# is good for S240422ed lower area
 # Circular metric used for cut pointings also doesn't perform too terribly
 df["metric"] = -0.13 * df["RA_norm"] + df["dec_norm"]
 df["metric"] = 0.01 * df["RA_norm"] + df["dec_norm"]
+df["metric"] = -0.2 * df["RA_norm"] + df["dec_norm"]
 # df["metric"] = np.arctan2(df["dec_norm"], df["RA_norm"]) 
 
 # Sort df by metric 

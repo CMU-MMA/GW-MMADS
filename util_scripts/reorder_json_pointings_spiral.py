@@ -175,6 +175,8 @@ with open(args.json_file, "r") as f:
 ##############################
 
 # Sort df
+df["RA"] = df["RA"].apply(lambda x: float(x))
+df["dec"] = df["dec"].apply(lambda x: float(x))
 df_sorted, best_angle = optimize_reordering(df)
 
 # Use index of df to sort json
