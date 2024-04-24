@@ -1,0 +1,1564 @@
+{
+    "at_report": {
+        "0": {
+            "ra": {
+                "value": "123.9715544084982",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-16.5717049",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5433092015",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230815532m163418",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5433092015",
+                        "flux": "21.689167265944988",
+                        "flux_error": "0.067525363",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "1": {
+            "ra": {
+                "value": "116.47753653845459",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-24.76188948",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.490025301",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404220745546m244543",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.490025301",
+                        "flux": "20.36249403261175",
+                        "flux_error": "0.02479743605090429",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "2": {
+            "ra": {
+                "value": "129.16944632331854",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-18.50531411",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.546451169",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230836407m183019",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.546451169",
+                        "flux": "20.992387788705358",
+                        "flux_error": "0.035095692000000005",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "3": {
+            "ra": {
+                "value": "118.5339183516646",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-23.07950251",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.4868011572",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404220754081m230446",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.4868011572",
+                        "flux": "18.60519420587968",
+                        "flux_error": "0.006834412",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "4": {
+            "ra": {
+                "value": "129.1413660458773",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-16.13737891",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5410658796",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230836339m160815",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5410658796",
+                        "flux": "21.63497142762733",
+                        "flux_error": "0.059204945",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "5": {
+            "ra": {
+                "value": "120.42331543292505",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-29.45110807",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.506506227",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230801416m292704",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.506506227",
+                        "flux": "20.332603596349298",
+                        "flux_error": "0.021628426810065847",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "6": {
+            "ra": {
+                "value": "128.31763534799305",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-17.67672924",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5454067243",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230833162m174036",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5454067243",
+                        "flux": "21.65095058524273",
+                        "flux_error": "0.057481683544084235",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "7": {
+            "ra": {
+                "value": "127.74596417480095",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-11.58613266",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5281852083",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230830590m113510",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5281852083",
+                        "flux": "19.85767824499357",
+                        "flux_error": "0.022302475543320176",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "8": {
+            "ra": {
+                "value": "123.59966220537147",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-16.433204",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.53788978",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230814239m162560",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.53788978",
+                        "flux": "18.225032145393023",
+                        "flux_error": "0.005278253",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "9": {
+            "ra": {
+                "value": "126.73373670692884",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-17.74437266",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5443610763",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230826561m174440",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5443610763",
+                        "flux": "19.79553075563529",
+                        "flux_error": "0.015008229959772888",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "10": {
+            "ra": {
+                "value": "122.27528756048756",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-29.77467152",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.508932141",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230809061m294629",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.508932141",
+                        "flux": "20.81341596021499",
+                        "flux_error": "0.041946424",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "11": {
+            "ra": {
+                "value": "123.52747892291245",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-29.73054945",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.508932141",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230814066m294350",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.508932141",
+                        "flux": "21.08945261204239",
+                        "flux_error": "0.05611148693992066",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "12": {
+            "ra": {
+                "value": "124.85069287781164",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-15.85209237",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5389596643",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230819242m155108",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5389596643",
+                        "flux": "21.987479454623266",
+                        "flux_error": "0.071804437",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "13": {
+            "ra": {
+                "value": "124.76506154382574",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-17.48350358",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5433092015",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230819036m172901",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5433092015",
+                        "flux": "22.674214801095253",
+                        "flux_error": "0.14793115865487164",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "14": {
+            "ra": {
+                "value": "130.19296540506633",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-12.66259237",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5292496528",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230840463m123945",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5292496528",
+                        "flux": "22.02544104135672",
+                        "flux_error": "0.093462961",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "15": {
+            "ra": {
+                "value": "128.76920150446432",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-18.27257656",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.546451169",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "A202404230835046m181621",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.546451169",
+                        "flux": "21.17181261157665",
+                        "flux_error": "0.041309634143600775",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "16": {
+            "ra": {
+                "value": "125.6351187803572",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-18.67406454",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5443610763",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230822324m184027",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5443610763",
+                        "flux": "22.2187589276713",
+                        "flux_error": "0.11887704509392966",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "17": {
+            "ra": {
+                "value": "117.1801301638833",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-26.65847591",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.494292257",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "C202404220748432m263931",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.494292257",
+                        "flux": "19.92531548307821",
+                        "flux_error": "0.019979912",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "18": {
+            "ra": {
+                "value": "127.39151255335119",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-19.82209213",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.553324479",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230829340m194920",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.553324479",
+                        "flux": "21.72740229512371",
+                        "flux_error": "0.075298497",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "19": {
+            "ra": {
+                "value": "128.12576211084522",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-16.08556892",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.540015081",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230832302m160508",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.540015081",
+                        "flux": "21.855618399996622",
+                        "flux_error": "0.067396253",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "20": {
+            "ra": {
+                "value": "126.80460209301377",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-20.21632679",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5576530555",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230827131m201259",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5576530555",
+                        "flux": "20.71498777096322",
+                        "flux_error": "0.02830294",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "21": {
+            "ra": {
+                "value": "129.16944632331854",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-18.50531411",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.546451169",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230836407m183019",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.546451169",
+                        "flux": "20.992387788705358",
+                        "flux_error": "0.035095692000000005",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "22": {
+            "ra": {
+                "value": "129.05125412940916",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-16.7423587",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5410658796",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230836123m164432",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5410658796",
+                        "flux": "21.270806456141763",
+                        "flux_error": "0.041380692999999996",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "23": {
+            "ra": {
+                "value": "128.70584468376052",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-20.05785131",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.553324479",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230834494m200328",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.553324479",
+                        "flux": "21.30786531917521",
+                        "flux_error": "0.04805974010386035",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "24": {
+            "ra": {
+                "value": "128.52871030274434",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-19.70644607",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.553324479",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230834069m194223",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.553324479",
+                        "flux": "20.868740395162977",
+                        "flux_error": "0.032465135",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "25": {
+            "ra": {
+                "value": "128.40323621193826",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-18.42369129",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5454067243",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230833368m182525",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5454067243",
+                        "flux": "21.50051953329514",
+                        "flux_error": "0.047771983532277296",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "26": {
+            "ra": {
+                "value": "127.46377758878569",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-17.9647202",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5454067243",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230829513m175753",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5454067243",
+                        "flux": "21.27652857903801",
+                        "flux_error": "0.040045896",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "27": {
+            "ra": {
+                "value": "127.36654497137457",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-21.53221419",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5576530555",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230829280m213156",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5576530555",
+                        "flux": "20.710551081650255",
+                        "flux_error": "0.028153977251180105",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "28": {
+            "ra": {
+                "value": "127.2464695537012",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-17.04570251",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.540015081",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230828592m170245",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.540015081",
+                        "flux": "18.850732941077183",
+                        "flux_error": "0.006304547",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "29": {
+            "ra": {
+                "value": "126.91535410416672",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-14.81529569",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5345741203",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230827397m144855",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5345741203",
+                        "flux": "22.1710489965684",
+                        "flux_error": "0.08307717",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "30": {
+            "ra": {
+                "value": "126.61443090685526",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-14.88266275",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5345741203",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230826275m145258",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5345741203",
+                        "flux": "19.94734536214524",
+                        "flux_error": "0.013257212201546456",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "31": {
+            "ra": {
+                "value": "126.59947321700773",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-16.56542735",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.540015081",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230826239m163356",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.540015081",
+                        "flux": "21.55253254",
+                        "flux_error": "0.050690022",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "32": {
+            "ra": {
+                "value": "125.94175689263024",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-15.51553726",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5345741203",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230823460m153056",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5345741203",
+                        "flux": "21.285531479574967",
+                        "flux_error": "0.040475922000000004",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "33": {
+            "ra": {
+                "value": "124.93810647988172",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-13.84002552",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.533533264",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404230819451m135024",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.533533264",
+                        "flux": "21.191794331371085",
+                        "flux_error": "0.06952984200000001",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "34": {
+            "ra": {
+                "value": "117.18384337491786",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-26.16935771",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.494292257",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "T202404220748441m261010",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.494292257",
+                        "flux": "20.820305240167638",
+                        "flux_error": "0.036690253",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "35": {
+            "ra": {
+                "value": "130.92801912995742",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-14.94523833",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5366865164",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "C202404230843427m145643",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5366865164",
+                        "flux": "21.34508034258456",
+                        "flux_error": "0.051628649000000006",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "36": {
+            "ra": {
+                "value": "130.06892163356534",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-16.79398941",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5410658796",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "C202404230840165m164738",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5410658796",
+                        "flux": "21.50969917651885",
+                        "flux_error": "0.055114477",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "37": {
+            "ra": {
+                "value": "129.4276761082393",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-14.57277883",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.532432639",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "C202404230837426m143422",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.532432639",
+                        "flux": "21.032686207437226",
+                        "flux_error": "0.044765942999999996",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "38": {
+            "ra": {
+                "value": "128.12093255255166",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-14.18310522",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.5313816667",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "C202404230832290m141059",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.5313816667",
+                        "flux": "19.802726530861296",
+                        "flux_error": "0.018859733194745425",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        },
+        "39": {
+            "ra": {
+                "value": "125.26619091630604",
+                "error": "",
+                "units": "deg"
+            },
+            "dec": {
+                "value": "-13.82052098",
+                "error": "",
+                "units": "deg"
+            },
+            "reporting_group_id": "135",
+            "discovery_data_source_id": "135",
+            "reporter": "Tom\u00e1s Cabrera (CMU), Lei Hu (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), Brendan O\u2019Connor (CMU), Antonella Palmese (CMU), Aidan Catalano (CMU), on behalf of the GW-MMADS team",
+            "discovery_datetime": "2460423.533533264",
+            "at_type": "1",
+            "host_name": "",
+            "host_redshift": "",
+            "transient_redshift": "",
+            "internal_name": "C202404230821039m134914",
+            "remarks": "",
+            "photometry": {
+                "photometry_group": {
+                    "0": {
+                        "obsdate": "2460423.533533264",
+                        "flux": "21.503752796391872",
+                        "flux_error": "0.090929077",
+                        "flux_units": "1",
+                        "filter_value": "22",
+                        "instrument_value": "172"
+                    }
+                }
+            },
+            "related_files": "",
+            "non_detection": {
+                "archiveid": "0",
+                "archival_remarks": "DECam Legacy Survey"
+            }
+        }
+    }
+}
