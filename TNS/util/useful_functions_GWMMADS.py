@@ -6,10 +6,14 @@ import matplotlib.pyplot as plt
 
 directory = "/Users/brendan/Documents/research/DECam/TNS/GWMMADS/"
 
-sourcesfile = '/Users/brendan/Documents/research/DECam/TNS/GWMMADS/SourceASSOC.csv'
+#sourcesfile = '/Users/brendan/Documents/research/DECam/TNS/GWMMADS/SourceASSOC.csv'
 
-usecols = ['OBJID','MJD_SCI', 'FILT_SCI', 'CMAG_APER', 'MAGERR_APER', 'RA_OBJ', 'DEC_OBJ']
+#sourcesfile = '/Users/brendan/Documents/research/DECam/TNS/GWMMADS/04-24-DECam_Candidate_Summary.csv'
 
+
+#usecols = ['OBJID','MJD_SCI', 'FILT_SCI', 'CMAG_APER', 'MAGERR_APER', 'RA_OBJ', 'DEC_OBJ']
+
+usecols = ['objid','date_first_alert', 'filter_first_alert', 'mag_first_alert', 'magerr_first_alert', 'ra_obj', 'dec_obj']
 
 
 
@@ -17,7 +21,7 @@ usecols = ['OBJID','MJD_SCI', 'FILT_SCI', 'CMAG_APER', 'MAGERR_APER', 'RA_OBJ', 
 
 # Pass in a Dataframe with columns Transient and Remarks
 # IMPORTANT: The name we use (Transient) must be the first name it is given (from the first semester of data)
-def create_bulk_info(names_types_remarks):
+def create_bulk_info(names_types_remarks,sourcesfile):
 
     print("hi")
 
@@ -57,12 +61,17 @@ def create_bulk_info(names_types_remarks):
 
         ra = crossmatch_info['RA_OBJ'].iloc[0]
         dec = crossmatch_info['DEC_OBJ'].iloc[0]
-        first_mjd = crossmatch_info['MJD_SCI'].iloc[0]
+
         first_mag = crossmatch_info['CMAG_APER'].iloc[0]
         first_magerr = crossmatch_info['MAGERR_APER'].iloc[0]
         first_filt = crossmatch_info['FILT_SCI'].iloc[0]
 
-        first_jd = Time(first_mjd, format='mjd').jd
+        
+        #first_mjd = crossmatch_info['MJD_SCI'].iloc[0]
+        #first_jd = Time(first_mjd, format='mjd').jd
+
+        first_utc = crossmatch_info['date_first_alert'].iloc[0]
+        first_jd = Time(first_utc, format='isot').jd
 
 
         transients.append(transient)
