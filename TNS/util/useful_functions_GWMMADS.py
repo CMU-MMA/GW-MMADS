@@ -21,11 +21,11 @@ usecols = ['objid','date_first_alert', 'filter_first_alert', 'mag_first_alert', 
 
 # Pass in a Dataframe with columns Transient and Remarks
 # IMPORTANT: The name we use (Transient) must be the first name it is given (from the first semester of data)
-def create_bulk_info(names_types_remarks,sourcesfile):
+def create_bulk_info(names_types_remarks,sources_all):
 
     print("hi")
 
-    sources_all = pd.read_csv(sourcesfile)
+    #sources_all = pd.read_csv(sourcesfile)
     
     # Want to create a new DataFrame with columns 
     # Transient - Ra - Dec - FirstDetJD - FirstDetMag - FirstDetMagErr - FirstDetFilt - NonDetJD - NonDetLM - NonDetFilt - AT_Type - Remarks
@@ -55,16 +55,16 @@ def create_bulk_info(names_types_remarks,sourcesfile):
             at_type = "PSN"
         
         # With this we have ra, dec, and the individual name of each semester this transient comes from
-        crossmatch_info = sources_all[sources_all['OBJID']==transient]
+        crossmatch_info = sources_all[sources_all['objid']==transient]
         crossmatch_info = crossmatch_info[:1]
 
 
-        ra = crossmatch_info['RA_OBJ'].iloc[0]
-        dec = crossmatch_info['DEC_OBJ'].iloc[0]
+        ra = crossmatch_info['ra_obj'].iloc[0]
+        dec = crossmatch_info['dec_obj'].iloc[0]
 
-        first_mag = crossmatch_info['CMAG_APER'].iloc[0]
-        first_magerr = crossmatch_info['MAGERR_APER'].iloc[0]
-        first_filt = crossmatch_info['FILT_SCI'].iloc[0]
+        first_mag = crossmatch_info['mag_first_alert'].iloc[0]
+        first_magerr = crossmatch_info['magerr_first_alert'].iloc[0]
+        first_filt = crossmatch_info['filter_first_alert'].iloc[0]
 
         
         #first_mjd = crossmatch_info['MJD_SCI'].iloc[0]
