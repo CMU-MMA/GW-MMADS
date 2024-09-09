@@ -1,0 +1,17 @@
+[
+	{
+		"count": 1,
+		"filter": "i",
+		"exptime": 80.000000,
+		"RA": 331.611940,
+		"dec": -28.439210,
+		"object": "S230922g",
+		"program": "GW-MMADS",
+		"expType": "object",
+		"note": "None",
+		"comment": "2022B-715089",
+		"wait": "False",
+		"proposer": "Andreoni Palmese",
+		"propid": "2022B-715089"
+	}
+]
