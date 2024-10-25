@@ -1,0 +1,20 @@
+2024-10-26
+
+Our trigger is for the first 40 minutes of the night.
+We have two targets:
+    - Epoch 5 (final) for S240925n; 90s in i+z (8 pointings for i, 9 pointings for z)
+    - Another long-term follow-up epoch for S230922g; 60s in g, 80s in i (one pointing each)
+
+S240925n is a setting field and at airmass ~1.5 at the beginning of the night, and accordingly should be observed first.
+To assist with this the observer may request that the operator point the telescope at the first pointing after initial checks/twilight fields to save on slew time.
+
+### Json sequence (Times are local Chilean time)
+Jsons can be found in the GW-MMADS/JSONS/<gw event id>/2024-10-26 directory for the respective event.
+
+21:06:20 (approximate):
+    GW-MMADS_S240925n_i90.json
+    GW-MMADS_S240925n_z90.json
+
+21:42:40 (slew begins 21:40:20):
+    GW-MMADS_S230922g_g60_3316m0284.json
+    GW-MMADS_S240922g_i80_3316m0284.json
