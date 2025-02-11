@@ -10,12 +10,14 @@ import os
 
 def all(file, snid, name):
 
-    _, ra, dec = np.loadtxt(file,unpack=True,dtype=str, delimiter=",")
-    ra = np.array([Angle(x, unit=u.hourangle).deg for x in ra[1:]])
+    ra, dec = np.loadtxt(file,unpack=True,dtype=str, delimiter=",")
+    ra = np.array([Angle(x, unit=u.deg).deg for x in ra[1:]])
     dec = np.array([Angle(x, unit=u.deg).deg for x in dec[1:]])
 
-    filt = ["z"] * len(ra)
-    texp = [80] * len(ra)
+#    filt = ["i"] * len(ra)
+#    texp = [140] * len(ra)
+    filt = ["r"] * len(ra)
+    texp = [60] * len(ra)
     field = [""] * len(ra)
 
     tiles(snid,[snid],ra,dec,filt,texp,[name],[snid],['object'],['GW-MMADS'],field)
@@ -72,9 +74,10 @@ def tiles(json_outpath,json_prefixs,pointRAs,pointDECs,filts,exps,propids,object
 
     os.system('mkdir -p '+date)
         
-    np.savetxt(cwd+'/'+tobject+'/'+date+'/'+tobject+'_'+date+'_'+filt[0]+'.json', json_out, fmt='%s')
+    outname = cwd+'/'+tobject+'/'+date+'/'+tobject+'_'+date+'_'+filt[0]+str(exps[0])+'.json'
+    np.savetxt(outname, json_out, fmt='%s')
 
-    print('wrote: '+cwd+'/'+tobject+'/'+date+'/'+tobject+'_'+date+'_'+filt[0]+'.json')
+    print('wrote: '+outname)
     
 
 if __name__ == "__main__":
